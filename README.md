@@ -1,7 +1,7 @@
 # 🛺 Rickshaw Matching System
 
 A real-time ride-matching platform built without GPS or maps. Passengers request rides between predefined stops; drivers accept them. All matching happens through WebSocket events for instant updates.
-
+Deployed link - https://rickshaw-frontend-wokl.onrender.com/
 ---
 
 ## 📋 Project Overview
